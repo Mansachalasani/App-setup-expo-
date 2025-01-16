@@ -131,60 +131,45 @@ import {
   const experiences = [
     {
       title: "Teaching Assisstant",
-      company_name: "Blue Sky Coding",
+      company_name: "Being Zero",
       icon: BlueSky,
       iconBg: "white",
-      date: "March 2022 - July 2022",
+      date: "Aug 2022 - Dec 2022",
       points: [
-      "Helped the company in setting up a community of over 1k college students and working professionals",
-      "Worked as a teaching assistant and mentored a batch of 50 students",
-      "Assisted the faculty in the process of course creation and content curation",
-      "Devised innovative ways of teaching DSA and Web Technologies for begginers"
+      "Guided batches of 50–60 students from various colleges in coding languages like Python, Java, and C++ to prepare them for campus placements.",
+      "Conducted coding sessions, cleared doubts, and provided practical insights to help students strengthen problem-solving and algorithmic thinking.",
+      "Assisted in refining course content and ensuring it aligned with placement requirements, contributing to improved student performance and placement outcomes.",
+      
      
       ],
     },
     {
-      title: "Research Intern",
-      company_name: "Indian Space Research Organization",
-      icon: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Indian_Space_Research_Organisation_Logo.svg/400px-Indian_Space_Research_Organisation_Logo.svg.png',
+      title: "Cloud Intern",
+      company_name: "Teachnook",
+      icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSchEy_JFam3Rh0xo3s4rMBp32VxKmOJzyLLw&s',
       iconBg:"white" ,
-      date: "July 20223 - Oct 2023",
+      date: "Feb 2023 - Apr 2023",
       points: [
-      "Collabrated with a team of scientists to develop cutting-edge technologies in field of Satellite Imagery",
-      "Worked extensively on SuperResolution of satellite Imagery",
-      "Built CNN models which increase the quality of ground level satellite images by 40%.",
-      "Published a Research Paper titled Super Resolution Resourcesat-2 satellite imagery using SRCNN",
+      "Designed and implemented an Interactive Voice Response (IVR) app, showcasing the practical application of Microsoft Azure services in real-world scenarios.",
+      "Gained hands-on experience in provisioning, configuring, and managing cloud resources, enhancing proficiency in Azure's service offerings.",
+      "Collaborated on integrating cloud-based solutions to streamline user interactions, emphasizing efficiency and scalability.",
      
       ],
     },
     {
-      title: "Software Intern",
-      company_name: "EKSAQ",
-      icon: 'https://eksaq.in/wp-content/uploads/2019/05/Colored-logo-1170x536.png',
+      title: "Frontend Developer",
+      company_name: "NuvaCode Digital Solutions Pvt. Ltd.",
+      icon: 'data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgSFhQXGRYbDRgMDRsUFRAiIB0iIiAdHx8kKDQlJCYxJx8fLTstMSw3MDE3Iys9TT8uQTQ5OkABCgoKDg0NGg8NGy0lHyU3NSs3Nzc2NzI3Mzc3NTc3KzEtNDgrNDc3NTc3Ny8vNzg3Kys3LjgrNzc3MzE3MTcvOP/AABEIAGQAZAMBIgACEQEDEQH/xAAbAAEAAwEBAQEAAAAAAAAAAAAAAQMEBQYCB//EAC4QAAIBAwMCBAUEAwAAAAAAAAABAgMEEQUhMRJBEyJRgRQyUmGRc6Gi0RUjU//EABkBAQADAQEAAAAAAAAAAAAAAAABAgMEBf/EAB0RAQEAAgIDAQAAAAAAAAAAAAABAgMhQQQRMRP/2gAMAwEAAhEDEQA/APzMAFlAAAAAAAAAAAAABZT4JIp8EgVAAAAAAAAAAAAAAAAsp8EkU+CQKgAAAAA2WVpCcXcXLfhp4xH5qj+mP99jGegtW7bT7G6cMxUaik4bzpZk0qiXtj27bEVzeVsuGMk74fF5ayrqFO5owpz4oOm10fpz9JL1e/r9uJUhKnOUJxw08ST5R27OjC2c7eUlW8XGIUp+XHPW32fOPTfP3x6/FR1auovK8uH9XlW/vz7kS9MPG2WbPz6+ucACz0AAAWU+CSKfBIFQAAAGrTKVtW1C3pXtRxpuSVVxaTS74b2AynW0y664U6CmozjnwXP5Jp805fZ7/n8a/wDCaZUdt8NrNPD8N1XUlGDhGU6ik8NrzRjGGYrLfVs2jNQ0mzr0qE46tSTmtlV8vRhNzUvTdJR+rPbDF5Zbdc2Y+q13NvSs6TbpSpU5JOtl/wCyb/5R9Eu/79kcK7uJXVzOtJJZ4S4S4S9keg1Gys5W76tS8eUG4xn8ZTgqcUotYpvMp7uXyvsTDQNIV7GnPWouOzliVFNrrxnPidPG+M9X2Ik9MvH0XDnK8vMA6+p6dptrY0q9rqaqTljEIw+Vb5y87NbcrfJyCXUAACynwSRT4JAqAAAAAWQrVILEZtFsbuSjiUcv16mjMApcMb9avi32h/JlbuKuW4zaKQCa8Y+pyc5OUmfIAWAAErKfBJFPgkCoAAAAAAAAAAAAAAAFlPgkinwSBUAAAAAAAAAAAAAAACynwSAB/9k=',
       iconBg: "White",
-      date: "Oct 2023 - June 2024",
+      date: "June 2023 - Nov 2023",
       points: [
-      "Built a in-house tool for content managment for multiple products.",
-      "Encorporated AI features for plagarism check and various language tools.",
-      "Enabled analytics and performances measure of content creators and editors.",
-      "Built AI pipelines for simplyfiying the process of Assert creation and animation"
+      "Designed and implemented dynamic, user-centric interfaces using React.js, focusing on creating interactive, question-driven forms to simplify data submission processes and automate resume generation.",
+      "Enhanced candidate visibility by 75% through the integration of AI-driven NLP algorithms, which converted user inputs into ATS-friendly content tailored for recruitment platforms.",
+      "Optimized API integrations with backend teams, enhancing platform scalability to support 1,000+ users.",
+    
       ],
     },
-    {
-      title: "Associate Software Engineer",
-      company_name: "EKSAQ",
-      icon: 'https://eksaq.in/wp-content/uploads/2019/05/Colored-logo-1170x536.png',
-      iconBg: "White",
-      date: "June 2024",
-      points: [
-      "Led a team in desigining ,developing and testing a Learning Management System using React Native",
-      "Created a CI/CD pipeline for test and build automation.",
-      "Developed Rest APIs and scalable backend using Supabase.",
-      "Managed hoisting and data storage services on AWS using EC2 ,S3, Amplify and Cloudfront",
-      "Integrated anaytics for visualization of user behaviour",
-      "Developed and launched pilot for about 10,000 students in less than 2 months."
-      ],
-    },
+  
   ];
   
   const testimonials = [
@@ -216,30 +201,35 @@ import {
   
   const projects = [
     {
-      name: "ShowEazy",
+      name: "Smart Guardian",
       description:
-        "ShowEazy is a pass-generating app and QR scanner is a streamlined solution designed to enhance event management for college activities. It automates the process of generating event passes and utilizes QR codes for seamless check-in. With a user-friendly interface, students receive their passes digitally, which they can easily scan at event entrances using the QR scanner.Say Bye-Bye to queus with BookEazy.",
+        "Smart Guardian is an advanced road safety solution aimed at enhancing driver safety by addressing challenges such as license authentication, alcohol impairment, and drowsiness detection. It integrates license verification through image comparison, alcohol monitoring to detect consumption during ignition and motion, and sleep detection using wearables, all powered by a robust backend with Flask, Superbase, and AWS. The project earned $1,200 from BUILD, $12,000 from TiHAN, and achieved Top 10 Finalist status in the Tata Technologies InnoVent Challenge. A patent (Application Number: 202341076498) has been published for this innovative system, which was also presented at the 2nd International Conference on STAAAR-2023 at VIT Bhopal.",
       tags: [
         {
-          name: "web dev",
+          name: "patent grant",
           color: "blue-text-gradient",
         },
         {
-          name: "software engineering",
+          name: "proactive solution",
           color: "pink-text-gradient",
         },
         {
           name: "App dev",
           color: "green-text-gradient",
         },
+        {
+          name: "IOT",
+          color: "green-text-gradient",
+        },
+        
        
 
       ],
       image: PRHome,
-      source_code_link: "https://github.com/nikhilagastya/Pass_frontend_updated",
+      source_code_link: "https://github.com/goSafeOrg/native_app",
     },
     {
-      name: "BlindAid",
+      name: "Tree Enumeration & Measurements Using UAV Images",
       description:
         "Project Blind is a device designed to help visually impaired individuals navigate their surroundings independently and confidently through their audiory senses . It uses a combination of sensors, cameras, and advanced algorithms to identify objects and provide detailed descriptions like object detection ,human recognition and distance estimation in real-time..",
       tags: [
@@ -261,12 +251,12 @@ import {
         },
       ],
       image: BlindAid,
-      source_code_link: "https://github.com/nikhilagastya/Poject-Blind",
+      source_code_link: "https://github.com/Mansachalasani/Tree-Enumeration-Measurements-Using-UAV-Images",
     },
     {
-      name: "Artandance",
+      name: "BVRITH Delights",
       description:
-        "Artandance is a comprehensive software solution designed to streamline attendance management. For students, Artandance offers an intuitive platform to track and manage attendance across multiple classes by integrating with their timetable.For professors, Artandance simplifies the process of posting and managing attendance. The software provides an efficient interface to record and update attendance in educational institutions.",
+        "BVRITH Delights is a MERN stack-based web application designed to simplify lunchtime management at college. The platform enables users to pre-order meals, reserve dining seats, and make secure payments through an integrated gateway. Built with MongoDB, Express.js, React.js, and Node.js, it offers a responsive interface and efficient backend architecture for smooth functionality. By digitizing the process, the application reduced wait times, improved dining efficiency, and enhanced user experience.",
       tags: [
         {
           name: "MongoDB",
@@ -282,7 +272,7 @@ import {
         },
       ],
       image: Artendance,
-      source_code_link: "https://github.com/nikhilagastya/artendance-frontend",
+      source_code_link: "https://github.com/Mansachalasani/BVRITH-Delights",
     },
   ];
   

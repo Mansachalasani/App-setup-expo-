@@ -39,16 +39,16 @@ const Contact = () => {
     
     emailjs
       .send(
-        'service_kdhgqyr',
-        'template_fe7oaoh',
+        'service_8rue4n1',
+        'template_charkvi',
         {
           from_name: form.name,
-          to_name: "Nikhil Agastya",
+          to_name: "Manasa Chalasani",
           from_email: form.email,
-          to_email: "agastyakarthik29@gmail.com",
+          to_email: "mansa.chalasani@gmail.com",
           message: form.message,
         },
-       'kO9e_bAjpFdQ4_Feu'
+       'VwVS8yjnwzIbpLGWc'
       )
       .then(
         () => {
