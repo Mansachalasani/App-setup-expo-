@@ -5,23 +5,14 @@ import {
     web,
     javascript,
     typescript,
-    html,
-    css,
+    
     reactjs,
-    redux,
-    tailwind,
+    
     nodejs,
     mongodb,
     git,
     figma,
     docker,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
-    carrent,
-    jobit,
-    tripguide,
     threejs,
     Jenkins,
     MongoDB,
@@ -30,7 +21,6 @@ import {
     PRHome,
     BlindAid,
     Artendance,
-    logo,
     BlueSky,
   } from "../assets";
   
